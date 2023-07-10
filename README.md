@@ -4,6 +4,7 @@ Created using
 
  - Java 20 (tested on Java 8 and Java 17)
  - MariaDB 10.4.28
+ - mysql-connector-j-8.0.33.jar
 
 # About
 
